@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenzie/static/css/main.cd638f00.css",
+    "main.js": "/tenzie/static/js/main.4e4ac18d.js",
+    "static/media/stars.webp": "/tenzie/static/media/stars.0bb7e4d7730770b579c5.webp",
+    "static/media/ElatedBlueLeveret.webp": "/tenzie/static/media/ElatedBlueLeveret.3c6f614eff708913f923.webp",
+    "index.html": "/tenzie/index.html",
+    "main.cd638f00.css.map": "/tenzie/static/css/main.cd638f00.css.map",
+    "main.4e4ac18d.js.map": "/tenzie/static/js/main.4e4ac18d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cd638f00.css",
+    "static/js/main.4e4ac18d.js"
+  ]
+}
